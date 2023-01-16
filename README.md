@@ -17,6 +17,10 @@ Resolução de alguns problemas do codeforces do tema greed.
 2- [Maximum Sum of Digits](https://codeforces.com/contest/1060/problem/B)
 ![image](https://user-images.githubusercontent.com/34287081/212515797-03a80ce2-cfaa-40a5-93b4-be911fd55421.png)
 
+3- [Boxes Packing](https://codeforces.com/contest/903/problem/C)
+
+![image](https://user-images.githubusercontent.com/34287081/212673809-defb6acd-a70d-4d6c-a87c-a0a17bc2554f.png)
+
 
 
 ## Instalação 
