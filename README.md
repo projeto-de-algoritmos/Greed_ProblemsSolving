@@ -1,45 +1,32 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Problems Solving
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: Greed<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 15/0122837  |  Davi Alves Bezerra |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Resolução de alguns problemas do codeforces do tema greed.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+1 - [Increasing Matrix](https://codeforces.com/contest/1231/problem/C)
+![image](https://user-images.githubusercontent.com/34287081/212503871-6f2bfe7b-9a6d-4387-9e79-2cd1a6c98fe3.png)
+
+2 - [Maximum Sum of Digits](https://codeforces.com/contest/1060/problem/B)
+![image](https://user-images.githubusercontent.com/34287081/212515797-03a80ce2-cfaa-40a5-93b4-be911fd55421.png)
+
+3 - [Boxes Packing](https://codeforces.com/contest/903/problem/C)
+
+![image](https://user-images.githubusercontent.com/34287081/212673809-defb6acd-a70d-4d6c-a87c-a0a17bc2554f.png)
+
+4 - [Space Formula](https://codeforces.com/contest/1046/problem/C)
+
+![image](https://user-images.githubusercontent.com/34287081/212741788-b833e8d0-f787-49a7-9735-0730cdf2c48e.png)
+
+
+
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
-
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
+**Linguagem**: Python 3.8<br>
